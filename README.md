@@ -96,19 +96,10 @@ Contributions are welcome! Please follow these steps:
 
 <div align="center" style="margin-top: 2rem; padding: 1.5rem; background-color: #f8f9fa; border-radius: 8px;">
   <p style="margin: 0; font-size: 1.1rem; color: #333;">
-    Made with ❤️ by 
+    Made with by 
     <a href="https://github.com/ashutoshkumar123" style="color: #2563eb; text-decoration: none; font-weight: 600;">
       Ashutosh Kumar
     </a>
   </p>
-  <p style="margin: 0.5rem 0 0; font-size: 0.9rem; color: #666;">
-    Connect with me:
-    <a href="https://www.linkedin.com/in/ashutosh-kumar-791887276/" style="margin: 0 0.5rem; color: #0a66c2; text-decoration: none;">
-      LinkedIn
-    </a>
-    |
-    <a href="ashucreater06@gmail.com" style="margin: 0 0.5rem; color: #ea4335; text-decoration: none;">
-      Email
-    </a>
   </p>
 </div>
