@@ -17,11 +17,6 @@ A modern, responsive user management application built with React, Vite, and Tai
 - **Form Validation**: Robust form handling with React Hook Form
 - **Loading States**: Skeleton loaders for better UX
 
-## 🖥️ Demo
-
-<div align="center">
-  <img src="./public/images/user-management-demo.png" alt="User Management System Demo" width="800" />
-</div>
 
 ## 🛠️ Tech Stack
 
