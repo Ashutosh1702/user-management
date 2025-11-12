@@ -97,9 +97,24 @@ Contributions are welcome! Please follow these steps:
 <div align="center" style="margin-top: 2rem; padding: 1.5rem; background-color: #f8f9fa; border-radius: 8px;">
   <p style="margin: 0; font-size: 1.1rem; color: #333;">
     Made with by 
-    <a href="https://github.com/ashutoshkumar123" style="color: #2563eb; text-decoration: none; font-weight: 600;">
-      Ashutosh Kumar
-    </a>
+    <a 
+  href="https://github.com/ashutoshkumar123" 
+  style="
+    display: inline-block;
+    padding: 0.5rem 1.25rem;
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+    color: white !important;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(37, 99, 235, 0.2);
+  "
+  onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 8px rgba(37, 99, 235, 0.3)';"
+  onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 5px rgba(37, 99, 235, 0.2)';"
+>
+  👨‍💻 Ashutosh Kumar
+</a>
   </p>
   </p>
 </div>
