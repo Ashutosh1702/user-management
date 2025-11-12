@@ -19,7 +19,9 @@ A modern, responsive user management application built with React, Vite, and Tai
 
 ## 🖥️ Demo
 
-![User Management System Demo](./Screenshot 2025-11-12 205800.png)
+<div align="center">
+  <img src="./public/images/user-management-demo.png" alt="User Management System Demo" width="800" />
+</div>
 
 ## 🛠️ Tech Stack
 
